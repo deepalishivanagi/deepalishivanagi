@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!--
-**deepalishivanagi/deepalishivanagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: [Twitter](https://twitter.com/DeepaliShivan1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hi there. I'm Deepali Shivanagi 👋
+
+
+- :zap: I love programming, front end and specially React.
+- 🌱 I’m addicted to learning and growing every day
+
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/deepali-shivanagi/)
+  - [![alt text][1.2]][1][Twitter](https://twitter.com/DeepaliShivan1)
+- 📫 Learn more about me on:  
+  - :bulb: [Medium](https://medium.com/@deep.deepali05)
+
+[![Deepalis github stats](https://github-readme-stats.vercel.app/api?username=deepalishivanagi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
